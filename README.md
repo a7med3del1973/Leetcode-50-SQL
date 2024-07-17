@@ -40,12 +40,13 @@ The repository is organized as follows:
 
 ```
 Leetcode-50-SQL/
-│
-├── problem_001.sql  # Solution for problem 1
-├── problem_002.sql  # Solution for problem 2
-├── problem_003.sql  # Solution for problem 3
-│
-└── README.md        # This file
+├── 1757.Recyclable and Low Fat Products/
+│   ├── problem.md
+│   ├── solution.sql
+├── 1758.Problem-Title/
+│   ├── problem.md
+│   ├── solution.sql
+└── ...
 ```
 
 ## Usage
